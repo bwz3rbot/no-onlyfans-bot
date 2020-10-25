@@ -1,0 +1,6 @@
+*.env
+*.env.json
+/node_modules
+/src/data/saved.db
+/src/data/saved.db-shm
+/src/data/saved.db-wal
